@@ -1,61 +1,96 @@
 {
-    "curso": [
-        {
-            "id": 1,
-            "nome":"For Business",
-            "instrutor": "Raquel do Sacramento",
-            "duração": "100h",
-            "preço": "R$45/aula"
-        },{
-            "id": 2,
-            "nome":"For Tech",
-            "instrutor": "Ester Ramos",
-            "duração": "80h",
-            "preço": "R$60/aula"
-
-        },{
-            "id": 3,
-            "nome":"For Travel",
-            "instrutor": "Bruna Lima",
-            "duração": "160h",
-            "preço": "R$50/aula"
-
-        },{
-            "id": 4,
-            "nome":"For Kids",
-            "instrutor": "Raisha Tinoco",
-            "duração": "60h",
-            "preço": "R$50/aula"
-
-        },{
-            "id": 5,
-            "nome":"For Seniors",
-            "instrutor": "Suanny Rodrigues",
-            "duração": "60h",
-            "preço": "R$30/aula"
-
-        }
-    ],
-
-    "instrutores":[
-        {
-            "id": 1,
-            "nome": "Suanny Rodrigues",
-            "cpf": "123.456.789-10",
-            "contato": "2191234-5678",
-            "email": "instrutora.suanny@gmail.com",
-            "curso_nome": "For Seniors"
-        }
-    ],
-
-    "estudantes":[
-        {
-            "id": 1,
-            "nome": "Paulo Victor Araujo",
-            "cpf": "123.456.789-10",
-            "contato": "2191234-5678",
-            "email": "aluno@gmail.com",
-            "idade": 26
-        }
+  "curso": [
+    {
+      "id": 1,
+      "nome": "For Business",
+      "instrutor": "Raquel do Sacramento",
+      "duração": "100h",
+      "preço": "R$45/aula"
+    },
+    {
+      "id": 2,
+      "nome": "For Tech",
+      "instrutor": "Ester Ramos",
+      "duração": "80h",
+      "preço": "R$60/aula"
+    },
+    {
+      "id": 3,
+      "nome": "For Travel",
+      "instrutor": "Bruna Lima",
+      "duração": "160h",
+      "preço": "R$50/aula"
+    },
+    {
+      "id": 4,
+      "nome": "For Kids",
+      "instrutor": "Raisha Tinoco",
+      "duração": "60h",
+      "preço": "R$50/aula"
+    },
+    {
+      "id": 5,
+      "nome": "For Seniors",
+      "instrutor": "Suanny Rodrigues",
+      "duração": "60h",
+      "preço": "R$30/aula"
+    },
+    [
+      {
+        "id": 1,
+        "nome": "For Business",
+        "instrutor": "Raquel do Sacramento",
+        "duração": "100h",
+        "preço": "R$45/aula"
+      },
+      {
+        "id": 2,
+        "nome": "For Tech",
+        "instrutor": "Ester Ramos",
+        "duração": "80h",
+        "preço": "R$60/aula"
+      },
+      {
+        "id": 3,
+        "nome": "For Travel",
+        "instrutor": "Bruna Lima",
+        "duração": "160h",
+        "preço": "R$50/aula"
+      },
+      {
+        "id": 4,
+        "nome": "For Kids",
+        "instrutor": "Raisha Tinoco",
+        "duração": "60h",
+        "preço": "R$50/aula"
+      },
+      {
+        "id": 6,
+        "nome": "For Teens",
+        "instrutor": "Suanny Rodrigues",
+        "duração": "60h",
+        "preço": "R$30/aula"
+      }
     ]
+  ],
+  "instrutores": [
+    {
+      "id": 1,
+      "nome": "Suanny Rodrigues",
+      "cpf": "123.456.789-10",
+      "contato": "2191234-5678",
+      "email": "instrutora.suanny@gmail.com",
+      "curso_nome": "For Seniors"
+    }
+  ],
+  "estudantes": [
+    {
+      "id": 1,
+      "nome": "Paulo Victor Araujo",
+      "cpf": "123.456.789-10",
+      "contato": "2191234-5678",
+      "email": "aluno@gmail.com",
+      "idade": 26
+    }
+  ]
 }
