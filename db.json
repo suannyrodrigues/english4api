@@ -34,14 +34,6 @@
       "instrutor": "Suanny Rodrigues",
       "duração": "60h",
       "preço": "R$30/aula"
-    },
-    {
-      "id": 6,
-      "nome": "For Teens",
-      "instrutor": "Larissa Nascimento",
-      "cidade": "Rio de Janeiro",
-      "duração": "100h",
-      "preço": "R$45/aula"
     }
   ],
   "instrutores": [
