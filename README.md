@@ -25,11 +25,3 @@ Para testar os métodos GET, POST, PUT e DELETE utilize o Postman.
 <br>
 
 
-
-<h2>#Links disponíveis:</h2>
-
-*Hospedagem no Render: https://json-serverenglish4.onrender.com/
-
-*Postman web: https://www.postman.com/
-
-*Postman desktop: https://www.postman.com/downloads/
