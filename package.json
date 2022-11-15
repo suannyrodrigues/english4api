@@ -1,7 +1,4 @@
 {
   "name": "english4api",
-  "packageManager": "yarn@3.2.4",
-  "repository": "https://github.com/suannyrodrigues/english4api.git",
-  "author": "Suanny Rodrigues<suannyrsantos@gmail.com>",
-  "license": "MIT"
+  "packageManager": "yarn@3.2.4"
 }
